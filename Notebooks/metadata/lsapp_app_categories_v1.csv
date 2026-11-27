@@ -1,0 +1,88 @@
+app_name,primary_category,alternative_category,mapping_uncertain,rationale
+AOL,unknown,unknown,1,Brand alone cannot separate email from news or browsing.
+Amazon Shopping,commerce_rewards,commerce_rewards,0,Retail shopping.
+Android In Call UI,productivity,productivity,1,System call interface; a log entry can accompany a call.
+Army Men Strike,gaming,gaming,0,Strategy game.
+Badoo,social,social,1,Social discovery and dating platform.
+Baseball Boy!,gaming,gaming,0,Arcade game.
+Brave Browser,browser_info,browser_info,0,Web browser; the visited site is unavailable.
+Calculator,productivity,productivity,0,Calculation utility.
+Calendar,productivity,productivity,0,Scheduling.
+Calorie Counter,productivity,productivity,0,Diet tracking utility.
+Camera,productivity,productivity,0,Image capture; sharing cannot be inferred.
+Clean Master,productivity,productivity,0,Device maintenance.
+Clock,productivity,productivity,0,Clock and alarms.
+Contacts,productivity,productivity,0,Contact management.
+DigiHUD Pro Speedometer,productivity,productivity,0,Speed and navigation utility.
+Discord,messaging,messaging,1,Chat and community servers share one client.
+EntertaiNow,entertainment,entertainment,1,Reward-linked video entertainment; individual activity is unknown.
+Facebook,social,social,1,General social networking with multiple uses.
+Facebook Messenger,messaging,messaging,0,Facebook chat client.
+Faceu,productivity,productivity,1,Camera and photo effects; sharing may follow.
+Flickr,media_sharing,media_sharing,0,Photo sharing and hosting.
+Flipboard Briefing,browser_info,browser_info,0,News aggregation.
+Gmail,productivity,productivity,0,Email recorded separately from instant messaging.
+Google,browser_info,browser_info,1,Search and information feed.
+Google Chrome,browser_info,browser_info,0,Web browser; the visited site is unavailable.
+Google Drive,productivity,productivity,0,File storage and collaboration.
+Google Photos,productivity,productivity,1,Photo library with sharing features.
+Google Play Music,entertainment,entertainment,0,Music playback and streaming.
+Google Play Store,productivity,productivity,0,App installation and updates.
+Hangouts,messaging,messaging,1,Messaging and calls share one client.
+Hulu,entertainment,entertainment,0,Video streaming.
+Ibotta,commerce_rewards,commerce_rewards,0,Shopping rewards.
+Instagram,media_sharing,media_sharing,1,Image and video sharing includes private messaging.
+Kik,messaging,messaging,0,Messenger.
+Lucktastic,commerce_rewards,commerce_rewards,1,Prize-based games overlap gaming.
+MAX Cleaner,productivity,productivity,0,Device maintenance.
+MUIQ Survey App,other,other,0,Research survey tool outside the main categories.
+Maps,productivity,productivity,0,Mapping and navigation.
+Messages,messaging,messaging,0,Text messaging client.
+Messaging,messaging,messaging,0,System text messaging label.
+Messenger Lite,messaging,messaging,0,Lightweight Facebook chat client.
+MetroZone,unknown,unknown,1,Carrier-branded content or services; specific function unresolved.
+Microsoft Bing Search,browser_info,browser_info,0,Search application.
+Microsoft Outlook,productivity,productivity,0,Email and calendar client.
+Minesweeper Classic (Mines),gaming,gaming,0,Puzzle game.
+Movie Play Box,entertainment,entertainment,1,Video playback as suggested by the label.
+Netflix,entertainment,entertainment,0,Video streaming.
+OfferUp,commerce_rewards,commerce_rewards,0,Marketplace.
+Pandora Music,entertainment,entertainment,0,Music streaming.
+PayPal Mobile Cash,commerce_rewards,commerce_rewards,0,Payment service.
+Phone,productivity,productivity,1,System dialler and calls; foreground intention is unknown.
+Pinterest,media_sharing,media_sharing,1,Visual discovery and sharing.
+Pixlr,productivity,productivity,0,Photo editing.
+Podcast Addict,entertainment,entertainment,0,Podcast player.
+Quora,social,social,1,Question-and-answer community also supports information seeking.
+Receipt Hog,commerce_rewards,commerce_rewards,0,Receipt rewards.
+Reddit,social,social,1,Community discussion and media feeds.
+Reward Stash,commerce_rewards,commerce_rewards,1,Rewards app as indicated by its label.
+Robinhood,commerce_rewards,commerce_rewards,0,Financial trading.
+Samsung Email,productivity,productivity,0,Email client.
+Samsung Gallery,productivity,productivity,0,Local photo management.
+Samsung Internet Browser,browser_info,browser_info,0,Web browser; the visited site is unavailable.
+Samsung Notes,productivity,productivity,0,Note taking.
+Samsung Pay,commerce_rewards,commerce_rewards,0,Payment service.
+Settings,productivity,productivity,0,Operating system settings.
+Slidejoy,commerce_rewards,commerce_rewards,1,Rewarded lock-screen content; device unlocking is unobserved.
+Snapchat,media_sharing,messaging,1,Image-based social networking in Marengo et al. Messaging in McDaniel et al.
+Spotify Music,entertainment,entertainment,0,Music streaming.
+SurveyCow,commerce_rewards,commerce_rewards,1,Survey rewards service.
+Swagbucks,commerce_rewards,commerce_rewards,1,Rewards service with multiple tasks.
+Swagbucks Watch (TV),entertainment,entertainment,1,Rewarded video viewing overlaps rewards activity.
+S’more,commerce_rewards,commerce_rewards,1,Rewarded lock-screen service; the precise activity is unknown.
+Telegram,messaging,messaging,1,Direct messages and channels.
+Telegram X,messaging,messaging,1,Telegram client including channels.
+Text One,unknown,unknown,1,Generic label without a verified app identity.
+TextNow,messaging,messaging,1,Text and voice service.
+The PCH App,commerce_rewards,commerce_rewards,1,Prizes and sweepstakes overlap games.
+Twitter,social,social,0,Social networking and public posts.
+Verizon Messages,messaging,messaging,0,Carrier text messaging client.
+Walmart,commerce_rewards,commerce_rewards,0,Retail shopping.
+WeChat,messaging,messaging,1,Messaging client with social and service features.
+WhatsApp Messenger,messaging,messaging,0,Direct and group messaging.
+Words With Friends 2,gaming,gaming,1,Word game with social features.
+Yahoo Mail,productivity,productivity,0,Email client.
+YouTube,entertainment,entertainment,1,Video viewing and sharing.
+eBay,commerce_rewards,commerce_rewards,0,Marketplace.
+imo,messaging,messaging,1,Chat and video calling.
